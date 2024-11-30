@@ -1,4 +1,4 @@
 const app = ()=>{
-    console.log("charizar")
+    console.log("charmender)
 }
 app()
